@@ -1,0 +1,29 @@
+
+.div1{
+	font-family:Georgia;
+	font-size:100%;
+	color: red;
+	width:40%;
+	text-align:center;
+	background-color:white;
+	display:block;
+	margin-top: 40px;
+	border:10px powderblue;
+}
+
+
+body{
+	background-image:url("https://media.expedia.com/hotels/3000000/2490000/2489300/2489206/b81c4a9a_z.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%;
+}
+
+
+
+
+
+
+
+
+
