@@ -35,7 +35,7 @@ class JSONData{
 			//print_r($this->option);
 			print("</div>");
 	  }
-	  
+	  //
 	  public function completeData(){
 		  return $this->jsonArray;
 	  }
