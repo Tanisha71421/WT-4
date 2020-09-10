@@ -27,7 +27,7 @@
 <br><br>	
 <div id="div1">
     <?php
-	require 'show_data.php';
+	require 'data.php';
 	$url = "https://davids-restaurant.herokuapp.com/menu_items.json";
 	$show = new JSONData($url);
 	$show->getVals();
